@@ -1,5 +1,5 @@
 ### Hi there 👋,
-I am Vassil Atanassov, a MSc Robotics student at TU Delft in the Netherlands.
+I am Vassil Atanassov, an MSc Robotics student at TU Delft in the Netherlands.
 
 - I am currently at the end of my first year.
 - My main interests are in agile legged locomotion through model-based + data-driven control.
